@@ -16,10 +16,7 @@ A Python port of [@ruvector/agentic-synth](https://www.npmjs.com/package/@ruvect
 ## Installation
 
 ```bash
-pip install agentic-synth
-```
-
-Or install from source:
+Install from source:
 
 ```bash
 git clone https://github.com/synthetic-data-generator/agentic-synth.git
